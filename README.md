@@ -12,3 +12,8 @@
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/crandel/)](https://www.linkedin.com/in/crandel/)
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Crandel&theme=dark&background=000000)](https://git.io/streak-stats)
